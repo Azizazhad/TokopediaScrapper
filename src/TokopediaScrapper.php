@@ -1,12 +1,22 @@
 <?php
-
 /**
- * Tokopedia Product Parser
+ * Aufa Encryption
+ * This Library create encryption string and reverse it using mCrypt if possble
+ *     if mCrypt not exists wil be use alternative encryption
+ *     decryption will be check string as characters sign.
  *
- * @package TokopediaScrapper
- * @version 1.0
- * @author Muhammad Imamul Azmi <imamul.azmi@hotmail.com>
+ * @copyright   Copyright (c) 2016 Sn4ckEye
+ * @link        https://github.com/Sn4ckEye
+ * @version     1.0
+ * @author      Sn4ckEye <imamul.azmi@hotmail.com>
+ * @package     Sn4ckEye\tokopediaScrapper
+ * @license     GPLv3 or later <https://www.gnu.org/licenses/gpl-3.0.txt>
  */
+namespace Sn4ckEye\TokopediaScrapper;
+
+use Sn4ckEye\TokopediaScrapper;
+use Sn4ckEye\TS
+
 class TokopediaScrapper {
 	/**
 	 * @var String
