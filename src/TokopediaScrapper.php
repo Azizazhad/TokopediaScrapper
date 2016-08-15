@@ -1,9 +1,7 @@
 <?php
 /**
- * Aufa Encryption
- * This Library create encryption string and reverse it using mCrypt if possble
- *     if mCrypt not exists wil be use alternative encryption
- *     decryption will be check string as characters sign.
+ * Sn4ckEye TokopediaScrapper
+ * This Library Grab Tokopedia Product Details From URL.
  *
  * @copyright   Copyright (c) 2016 Sn4ckEye
  * @link        https://github.com/Sn4ckEye
