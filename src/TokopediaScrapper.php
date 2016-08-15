@@ -13,7 +13,7 @@
 namespace Sn4ckEye\TokopediaScrapper;
 
 use Sn4ckEye\TokopediaScrapper;
-use Sn4ckEye\TS
+use Sn4ckEye\TS;
 
 class TokopediaScrapper {
 	/**
