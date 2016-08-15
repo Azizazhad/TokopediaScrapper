@@ -7,11 +7,9 @@
  * @link        https://github.com/Sn4ckEye
  * @version     1.0
  * @author      Sn4ckEye <imamul.azmi@hotmail.com>
- * @package     Sn4ckEye\tokopediaScrapper
+ * @package     Sn4ckEye\TokopediaScrapper
  * @license     GPLv3 or later <https://www.gnu.org/licenses/gpl-3.0.txt>
  */
-namespace sn4ckeye\tokopediascrapper;
-
 class TokopediaScrapper {
 	/**
 	 * @var String
