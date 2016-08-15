@@ -1,7 +1,7 @@
 {
     "name": "Sn4ckEye/TokopediaScrapper",
     "description": "Tokopedia Grabber",
-    "keywords": ["Tokopedia", "Library", "Utility"],,
+    "keywords": ["Tokopedia", "Library", "Utility"],
     "type": "library",
     "version": "1.0",
     "license": "GPL-3.0+",
