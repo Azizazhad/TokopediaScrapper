@@ -1,0 +1,5 @@
+{
+  "require": {
+        "Sn4ckEye/TokopediaScrapper" : "~1"
+  }
+}
