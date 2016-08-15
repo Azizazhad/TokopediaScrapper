@@ -1,7 +1,7 @@
 <phpunit>
   <testsuites>
     <testsuite name="TokopediaScrapper">
-      <file>example/test.php</file>
+      <file>./example/test.php</file>
     </testsuite>
   </testsuites>
 </phpunit>
