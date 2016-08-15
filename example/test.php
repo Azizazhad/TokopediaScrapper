@@ -1,6 +1,6 @@
 <?php
 
-require '../src/TokopediaScrapper.php';
+require dirname(__FILE__).'../src/TokopediaScrapper.php';
 try {
     $data = new TokopediaScrapper('https://www.tokopedia.com/budgetgadget/car-bluetooth-music-receiver-with-handsfree');
     echo $data->generate('info');
