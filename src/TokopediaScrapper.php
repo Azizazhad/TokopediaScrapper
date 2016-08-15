@@ -10,7 +10,7 @@
  * @package     Sn4ckEye\tokopediaScrapper
  * @license     GPLv3 or later <https://www.gnu.org/licenses/gpl-3.0.txt>
  */
-namespace Sn4ckEye\TokopediaScrapper;
+namespace sn4ckeye\tokopediascrapper;
 
 class TokopediaScrapper {
 	/**
